@@ -1,0 +1,2 @@
+# Weather-Project
+Learning JavaScript 
